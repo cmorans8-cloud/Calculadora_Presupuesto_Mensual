@@ -1,47 +1,44 @@
-# Investigación sobre Markdown
+# 📘 Documentación sobre Markdown
 
-## 1️⃣ ¿Qué es Markdown?
-- **Markdown** es un lenguaje de marcado ligero creado por John Gruber en 2004.  
-- Permite escribir texto plano fácil de leer y convertirlo en HTML de manera sencilla.  
-- Se utiliza ampliamente en documentación técnica, blogs, repositorios de software y notas porque combina **simplicidad** y **portabilidad**.  
-
-👉 En proyectos de software, Markdown es el estándar para escribir archivos `README.md`, documentación de APIs, guías de instalación y reportes técnicos.
-
----
-
-## 2️⃣ ¿Por qué se utiliza en proyectos de software?
--  **Simplicidad:** no requiere conocimientos avanzados de HTML o CSS.  
--  **Compatibilidad:** funciona en múltiples plataformas (GitHub, GitLab, Bitbucket, VS Code, etc.).  
--  **Colaboración:** facilita que equipos distribuidos mantengan documentación clara y uniforme.  
--  **Versionado:** se integra perfectamente con sistemas de control de versiones como Git.  
--  **Portabilidad:** los archivos `.md` son livianos y fáciles de compartir.  
+## 1. ¿Qué es Markdown y por qué se utiliza en proyectos de software?
+Markdown es un **lenguaje de marcado ligero** creado para escribir texto plano que puede convertirse fácilmente en HTML.  
+Se utiliza en proyectos de software porque:
+- Permite documentar proyectos de forma clara y legible.
+- Es sencillo de aprender y usar.
+- Es compatible con múltiples plataformas y editores.
+- Es el formato estándar para archivos `README.md` en GitHub, donde se describe el propósito, instalación y uso de un proyecto.
 
 ---
 
-## 3️⃣ Ejemplo práctico de uso de Markdown
+## 2. Ejemplo práctico de uso de Markdown
 
-```markdown
+### Encabezados
 # 📌 Encabezado nivel 1
 ## 🔹 Encabezado nivel 2
 ### 🔸 Encabezado nivel 3
 
-Texto en **negrita**, *cursiva* y `código`.
-
+### Listas
 - Lista desordenada
-- Otro ítem
-  - Subítem
+  - Elemento A
+  - Elemento B
 
 1. Lista ordenada
-2. Segundo ítem
+   1. Paso 1
+   2. Paso 2
 
-| Nombre | Edad | Carrera |
-|--------|------|---------|
-| Carlos | 21   | Software |
-| Ana    | 22   | Sistemas |
+### Tablas
+| Lenguaje | Uso principal          |
+|----------|------------------------|
+| Python   | Ciencia de datos       |
+| Java     | Aplicaciones empresariales |
+| C++      | Sistemas embebidos     |
 
-[Enlace a GitHub](https://github.com)
+### Enlaces
+[Visita GitHub](https://github.com)
 
-![Ejemplo de imagen](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+### Imágenes
+![Logo Markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+
 ---
 
 ## 3. Ventajas de utilizar Markdown en combinación con GitHub
@@ -56,4 +53,3 @@ Texto en **negrita**, *cursiva* y `código`.
 ## 📜 Conclusión
 Markdown es una herramienta esencial para la documentación en proyectos de software.  
 Su integración con GitHub lo convierte en un estándar para la colaboración y el versionado en equipos de desarrollo.
-
