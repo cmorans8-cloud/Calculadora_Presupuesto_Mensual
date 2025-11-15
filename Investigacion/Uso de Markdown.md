@@ -43,16 +43,17 @@ Texto en **negrita**, *cursiva* y `código`.
 
 ![Ejemplo de imagen](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 ---
-### Ventajas de utilizar Markdown en combinación con GitHub
--   Documentación centralizada: cada repositorio puede tener un README.md que describe el proyecto.
 
--  Control de versiones: cualquier cambio en la documentación queda registrado en los commits.
+## 3. Ventajas de utilizar Markdown en combinación con GitHub
+- **Visualización automática:** GitHub interpreta los archivos `.md` y los muestra con formato HTML.  
+- **Colaboración:** Markdown es fácil de leer en texto plano, lo que facilita revisiones en *pull requests*.  
+- **Versionado:** Al ser texto plano, los cambios se pueden rastrear línea por línea con Git.  
+- **Compatibilidad:** Se usa en issues, wikis y comentarios dentro de GitHub.  
+- **Ligereza:** No requiere programas adicionales, basta un editor de texto como VS Code.  
 
--  Visualización automática: GitHub renderiza Markdown en páginas web con formato atractivo.
+---
 
--  Colaboración abierta: otros usuarios pueden contribuir fácilmente a la documentación.
+## 📜 Conclusión
+Markdown es una herramienta esencial para la documentación en proyectos de software.  
+Su integración con GitHub lo convierte en un estándar para la colaboración y el versionado en equipos de desarrollo.
 
--  Integración con herramientas: GitHub Pages, Wikis y proyectos usan Markdown como base.
-
-### Conclusión
-Markdown es una herramienta esencial en proyectos de software porque combina simplicidad, claridad y compatibilidad. En GitHub, potencia la colaboración y el control de versiones, convirtiéndose en el estándar para documentación técnica moderna.
