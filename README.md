@@ -1,13 +1,13 @@
-# 📊 Calculadora de Presupuesto Mensual
+#  Calculadora de Presupuesto Mensual
 
-## 📌 Descripción del Caso
+##  Descripción del Caso
 La **Calculadora de Presupuesto Mensual** es una aplicación web/móvil diseñada para ayudar a los usuarios a gestionar sus ingresos y gastos personales.  
 El sistema permite registrar fuentes de ingreso, clasificar gastos, calcular automáticamente el saldo mensual y generar reportes gráficos.  
 En versiones posteriores se añadieron funcionalidades avanzadas como metas de ahorro, importación de datos desde archivos CSV/Excel, categorización automática de gastos y simulaciones de gastos futuros.
 
 ---
 
-## 🎯 Objetivos
+##  Objetivos
 - Ofrecer una herramienta sencilla e intuitiva para el **control financiero personal**.  
 - Permitir al usuario **registrar ingresos y gastos** de manera organizada.  
 - Generar **reportes gráficos y alertas automáticas** cuando los gastos superen los ingresos.  
@@ -40,7 +40,7 @@ En versiones posteriores se añadieron funcionalidades avanzadas como metas de a
 
 ---
 
-## 🧪 Tabla de Pruebas y Validación
+##  Tabla de Pruebas y Validación
 
 | Tipo de Prueba       | Requerimiento | Datos de Entrada                  | Resultado Esperado                          | Resultado Obtenido |
 |----------------------|---------------|-----------------------------------|---------------------------------------------|--------------------|
@@ -67,7 +67,7 @@ Según Sommerville y Pressman, se aplican los siguientes tipos de mantenimiento:
 
 ---
 
-## 🔄 Reflexión sobre el Control de Versiones
+##  Reflexión sobre el Control de Versiones
 El uso de **GitHub y control de versiones** es esencial para este proyecto:  
 - Permite mantener un historial claro de cambios en requerimientos, pruebas y mantenimiento.  
 - Facilita la colaboración entre varios autores y el seguimiento de responsabilidades.  
@@ -76,7 +76,7 @@ El uso de **GitHub y control de versiones** es esencial para este proyecto:
 
 ---
 
-## 📚 Bibliografía
+##  Bibliografía
 - Sommerville, Ian. *Ingeniería del Software*. Pearson Addison-Wesley, 2005.  
 - Pressman, Roger S. *Ingeniería del Software: Un enfoque práctico*. McGraw-Hill, 2005.  
 - IEEE Std 830-1998. *Recommended Practice for Software Requirements Specifications*. IEEE, 2014.  
